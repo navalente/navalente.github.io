@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction!
+🚧 Site is currently under construction. Updates coming soon!
