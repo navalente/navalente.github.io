@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there, I'm Nicholas Valente"
+title: "Hey there, I'm Nicholas Valente!"
 author_profile: true
 redirect_from: 
   - /about/
